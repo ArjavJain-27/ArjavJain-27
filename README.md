@@ -1,5 +1,37 @@
 # 💫 About Me:
-# Hi, I'm Arjav Jain 👋<br><br>Building at the intersection of AI, technology, and communities.<br><br>🎓 Computer Science student passionate about Artificial Intelligence, automation, and developer technologies.<br><br>🚀 Contributed to community-driven initiatives with GDG Indore, supporting events through hosting, media management, photography, and team coordination.<br><br>📸 Experienced in visual storytelling, event coverage, and digital content creation.<br><br>💡 Currently exploring AI applications, Python development, Git/GitHub workflows, and open-source collaboration.<br><br>🌱 Focused on building practical projects, strengthening problem-solving skills, and creating technology that delivers real-world impact.<br><br>### Areas of Interest<br><br>* Artificial Intelligence & Machine Learning<br>* Python Development<br>* Open Source<br>* Developer Communities<br>* Content & Media Strategy<br>* Event Operations<br><br>### Current Mission<br><br>Transform ideas into products, contribute to meaningful communities, and continuously learn through building.<br><br>> "Learning in public, building with purpose."<br>
+# # Hi, I'm Arjav Jain 👋
+
+Building at the intersection of Artificial Intelligence, open source, and developer communities.
+
+## 🚀 About Me
+🎓 Computer Science student passionate about AI, automation, and developer technologies.
+
+💡 Currently exploring Artificial Intelligence, Python, Git/GitHub, Agentic AI, and open-source collaboration while building projects that solve real-world problems.
+
+🌱 Learning in public, contributing consistently, and turning ideas into impactful products.
+
+## 💼 Community & Leadership
+- 🎤 General Secretary at OASIS Club
+- 🎙️ Host at Build with AI (GDG Cloud Indore)
+- 🤝 Active contributor in GDG Indore community initiatives
+- 📸 Experience in event hosting, photography, media management, and team coordination
+
+## 🛠️ Tech Stack
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python
+- 🌐 Git & GitHub
+- 💻 Open Source
+- ⚡ Developer Tools
+- 🎨 Content & Media Strategy
+
+## 🎯 2026 Goals
+- Contribute consistently to open source.
+- Build impactful AI products.
+- Strengthen DSA and problem-solving skills.
+- Help grow developer communities.
+- Share my journey by building in public.
+
+> **"Learning in public. Building with purpose. Creating impact through AI."**
 
 
 ## 🌐 Socials:
