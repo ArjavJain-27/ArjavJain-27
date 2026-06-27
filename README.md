@@ -11,7 +11,7 @@ Building at the intersection of Artificial Intelligence, open source, and develo
 🌱 Learning in public, contributing consistently, and turning ideas into impactful products.
 
 ## 💼 Community & Leadership
-- 🎤 General Secretary at OASIS Club
+- 🎤 Former General Secretary at OASIS Club
 - 🎙️ Host at Build with AI (GDG Cloud Indore)
 - 🤝 Active contributor in GDG Indore community initiatives
 - 📸 Experience in event hosting, photography, media management, and team coordination
