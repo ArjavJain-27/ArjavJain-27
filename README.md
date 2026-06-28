@@ -4,7 +4,7 @@
 Building at the intersection of Artificial Intelligence, open source, and developer communities.
 
 ## 🚀 About Me
-🎓 Computer Science student passionate about AI, automation, and developer technologies.
+🎓 Computer Science student passionate about Python, Artificial Intelligence, automation, and developer tools. Currently building strong software engineering skills through open-source contributions, data structures and algorithms, and hands-on projects.
 
 💡 Currently exploring Artificial Intelligence, Python, Git/GitHub, Agentic AI, and open-source collaboration while building projects that solve real-world problems.
 
