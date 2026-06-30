@@ -11,10 +11,11 @@ Building at the intersection of Artificial Intelligence, open source, and develo
 🌱 Learning in public, contributing consistently, and turning ideas into impactful products.
 
 ## 💼 Community & Leadership
-- 🎤 Former General Secretary at OASIS Club
-- 🎙️ Host at Build with AI (GDG Cloud Indore)
-- 🤝 Active contributor in GDG Indore community initiatives
-- 📸 Experience in event hosting, photography, media management, and team coordination
+- 🎤 Host at Build with AI by GDG Cloud Indore
+- 🚀 Core Lead at Innothon, leading event coordination and execution
+- 🤝 Active contributor to the GDG Cloud Indore community
+- 🎙️ Former General Secretary at OASIS Club
+- 📸 Experience in event hosting, photography, media management, community building, and team coordination
 
 ## 🛠️ Tech Stack
 - 🤖 Artificial Intelligence & Machine Learning
