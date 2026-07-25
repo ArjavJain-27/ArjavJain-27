@@ -272,3 +272,91 @@ If you like my work, consider giving a ⭐ to my repositories.
 </p>
 
 ---
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ArjavJain-27
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+
+  github-metrics:
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+
+      - uses: lowlighter/metrics@latest
+        with:
+
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: ArjavJain-27
+
+          template: classic
+
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Kolkata
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+
+          plugin_isocalendar: yes
+
+          plugin_followup: yes
+
+          plugin_habits: yes
+
+          plugin_lines: yes
+
+          plugin_repositories: yes
+
+          plugin_stars: yes
+
+          plugin_topics: yes
+
+          plugin_traffic: yes
+
+          plugin_achievements: yes
+
+          plugin_introduction: yes
+
+          plugin_notable: yes
+
+          plugin_calendar: yes
+
+          filename: github-metrics.svg
