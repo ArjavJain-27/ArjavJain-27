@@ -151,29 +151,17 @@ Currently working towards becoming a **Professional AI Engineer & Backend Engine
 
 ---
 
-# 📚 Coding Profiles
+## 💻 Coding Profile
 
 <p align="center">
-
-<a href="https://leetcode.com/u/ArjavJainAF/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
+  <a href="https://leetcode.com/u/Arjavjain-af/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Arjavjain--af-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Arjavjain-af?theme=dark&font=baloo&ext=contest" />
+</p>
 
 # 📌 Highlights
 
