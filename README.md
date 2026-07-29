@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Arjav Jain</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Backend+Developer;Computer+Science+Student;Open+Source+Contributor;Building+AI+Products;Python+%7C+FastAPI+%7C+Machine+Learning;Always+Learning+🚀" />
+  <img src="banner.png" width="100%" alt="Banner">
 </p>
 
 <p align="center">
