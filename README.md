@@ -80,10 +80,11 @@ Currently working towards becoming a **Professional AI Engineer & Backend Engine
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| 🤖 AI Flashcard Generator | AI-powered flashcard generator using Gemini | Python • FastAPI |
-| 📚 DSA Journey | Striver A2Z Solutions with explanations | Python |
-| 🚀 AI Experiments | Collection of AI & ML projects | Python |
-| 🌐 GitHub Profile | Dynamic GitHub profile | Markdown |
+| ⚽ AI Football Match Analysis | AI-powered football analytics with player tracking, ball tracking, team classification, and match insights using Computer Vision | Python • OpenCV • YOLO • Ultralytics |
+| 🤖 AI Flashcard Generator | AI-powered flashcard generator that creates study flashcards from any topic using Gemini | Python • FastAPI • Gemini |
+| 🧠 Jarvis AI Assistant | A local AI assistant that can understand voice/text commands and control your computer by opening apps, automating tasks, and answering questions | Python • LLM • Automation |
+| 🚀 AI Experiments | Collection of AI, Machine Learning, and Computer Vision projects built while exploring new technologies | Python • AI/ML |
+| 🌐 GitHub Profile | Dynamic GitHub profile with custom animations, badges, and GitHub statistics | Markdown • GitHub Actions |
 
 ---
 
