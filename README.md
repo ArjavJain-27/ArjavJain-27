@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://ghchart.rshah.org/ArjavJain-27" alt="GitHub Contributions" />
+</p>
 <!-- ========================================= -->
 <!--                HEADER                     -->
 <!-- ========================================= -->
