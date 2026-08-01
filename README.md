@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ghchart.rshah.org/ArjavJain-27" alt="GitHub Contributions" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjavJain-27&theme=github_dark" />
 </p>
 <!-- ========================================= -->
 <!--                HEADER                     -->
