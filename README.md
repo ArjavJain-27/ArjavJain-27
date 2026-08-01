@@ -1,3 +1,28 @@
+ArjavJain-27/
+
+README.md
+assets/
+    typing.svg
+    ascii.svg
+    info-card.svg
+    contribution.svg
+    project-card-1.svg
+    project-card-2.svg
+    tech-stack.svg
+
+scripts/
+    prep_photo.py
+    make_ascii_svg.py
+    make_typing_svg.py
+    make_info_card.py
+    fetch_contributions.py
+    render_heatmap_svg.py
+
+data/
+    contributions.json
+
+.github/workflows/
+    update.yml
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjavJain-27&theme=github_dark" />
 </p>
