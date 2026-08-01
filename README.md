@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjavJain-27&theme=github_dark" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=ARJAV%20JAIN&fontSize=70&fontAlign=50&fontAlignY=38&animation=twinkling"/>
 <!-- ========================================= -->
 <!--                HEADER                     -->
 <!-- ========================================= -->
